@@ -6,7 +6,7 @@
 
 An interactive web app that animates Dijkstra's algorithm on graphs you build yourself, with live distance tables, shortest-path output, and a step-by-step log.
 
-![Python](https://img.shields.io/badge/Python-3.15+-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.15-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
