@@ -247,18 +247,13 @@ POST /api/edge
 - [ ] Per-user sessions (the graph is currently stored globally on the server)
 
 ---
+## 📜 License
 
-## 🤝 Contributing
+This project is released under the [All Rights Reserved](LICENSE).
 
-Contributions are welcome!
+---
 
-```bash
-git checkout -b feature/amazing-idea
-git commit -m "Add amazing idea"
-git push origin feature/amazing-idea
-```
-
-Then open a Pull Request. 🚀
+<div align="center">
 
 ---
 
