@@ -28,7 +28,7 @@ An interactive web app that animates Dijkstra's algorithm on graphs you build yo
 
 <div align="center">
 
-![Dijkstra Visualizer Screenshot](DS_FINAL/DSA%20U3(4)/DSA%20U3/preview.png)
+![Dijkstra Visualizer Screenshot](Frontend/preview.png)
 
 </div>
 
